@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+    "tab_size": 4,
+    "translate_tabs_to_spaces": false,
+	"color_scheme": "Packages/User/Monokai (SL) (SublimePythonIDE).tmTheme",
+	"dictionary": "Packages/Language – Spanish/Spanish.dic",
+	"disable_tab_abbreviations_on_auto_complete": false,
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 1.5,
+	"overlay_scl_bars": "enabled",
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"table_cleaner_align_to_middle": true,
+	"table_cleaner_delimiters_white_spaces": 1,
+	"theme": "predawn.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,30 @@
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYitj7Dr8zn4RxtHR7ffxACyJ3I3LyjmeKB4jW+DrE3KFzRy4N+moe9DCwjxKiNF/L0kXRdNneuCpcq5v0IVhRGMAE1api8p+p+lexCjuafDQRBIXdoIuwqCZaXvE0EAZgBOfUY5+GPSxGIja3bPgRkfEObv3BxkDYB6y3G4ZJLuqAhL1rzcrQq49sRvYipIYTayaEt4/lk1ufscRO7c1DCYNypCFogoSXI3vmlYQbEoikT8uCzF0aBwfgvcCEK5Y6BOqWUI6jy1hNomyFL1PiZSbsPbYH0sv1nk5RizJNDFgk04KKycVQG/Bdk0DqtYK/d/9NFeFUctLxhjguYSI3 vdiaz@altisidora.mhp-interno.com
+
+
+write_files:
+  - path: /opt/rancher/bin/start.sh
+    permissions: 0755
+    owner: root
+    content: |
+      #!/bin/bash
+      echo "I'm doing things on start"
+
+rancher:
+  network:
+    interfaces:
+      eth*:
+        dhcp: false
+      eth0:
+        address: 192.168.200.40/24
+        gateway: 192.168.200.25
+        mtu: 1500
+      # If this MAC address happens to match eth0, eth0 will be programmed to use DHCP.
+      "mac=52:54:00:5a:e3:fb":
+        dhcp: false
+    dns:
+      nameservers:
+        - 192.168.200.25
+        - 192.168.200.2
+
+hostname: rancheros01

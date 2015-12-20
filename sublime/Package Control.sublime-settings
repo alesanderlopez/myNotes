@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"CSS3",
+		"Devastate",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"Goto Bootstrap",
+		"HTML Snippets",
+		"HTML5",
+		"HTML5 Doctor CSS Reset snippet",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint Gutter",
+		"Laravel Blade Highlighter",
+		"Laravel Bootstrapper Snippets",
+		"Markdown HTML Preview",
+		"MarkdownLight",
+		"Node Completions",
+		"Nodejs",
+		"Package Control",
+		"Phpcs",
+		"Predawn",
+		"Python 3",
+		"Python Auto-Complete",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Afterglow",
+		"Theme - Centurion",
+		"Twitter Bootstrap Snippets",
+		"Underscorejs snippets"
+	]
+}
