@@ -1,5 +1,10 @@
 # Android
 
+# Guias
+```
+https://github.com/codepath/android_guides/wiki
+```
+
 ## Url
 ```
 https://github.com/futurice/android-best-practices ## Buenas practicas
@@ -24,12 +29,20 @@ https://github.com/silmood/The-FM
 https://github.com/nRike/Curso-Android-en-ITAM
 https://geekytheory.com/materialsearchview/
 http://www.hermosaprogramacion.com/2015/06/toolbar-en-android-creacion-de-action-bar-en-material-design/ #Toolbar
+http://www.hermosaprogramacion.com/2016/01/recyclerview-con-cursor-en-android/
 
 // Iconos
 https://github.com/google/material-design-icons
 http://www.materialui.co/icons
 
+// Toolbar 
+https://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling(part3)/
+
+
+
 ```
+
+
 
 ## Resoluciones
 

@@ -5,6 +5,11 @@ https://github.com/platzi/nodejs-avanzado
 https://github.com/Buritica/anotamela-api-basico
 http://code.tutsplus.com/tutorials/how-to-scrape-web-pages-with-nodejs-and-jquery--net-22478
 https://fernetjs.com/2012/09/jsonp-cors-y-como-los-soportamos-desde-nodejs/
+http://bites.goodeggs.com/posts/export-this/ //Exports
+http://bigspaceship.github.io/blog/2014/05/14/how-to-create-a-rest-api-with-node-dot-js/ // Clean project
+https://github.com/brittneykernan/noderest-presentation/blob/master/src/controllers/musicians.js
+https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens //Token with jwt
+http://expressjs.com/ru/guide/using-middleware.html //Middleware
 
 ## Asíncrono
 ```javascript
