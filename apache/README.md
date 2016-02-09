@@ -1,5 +1,8 @@
 # Apache 
 
+# Estadisticas de vistias
+http://goaccess.io/man
+
 ## VHOST
 
 ## Add in conf/httpd.conf
