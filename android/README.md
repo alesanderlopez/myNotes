@@ -23,6 +23,8 @@ https://github.com/chrisbanes/Android-PullToRefresh #Twitter
 https://infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about
 
 // Ejemplos
+http://www.raywenderlich.com/103367/material-design
+https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32#.hzwhmhicv
 https://github.com/nRike/RecyclerViewSample
 https://github.com/nRike/NavigationDrawerSample
 https://github.com/silmood/The-FM
