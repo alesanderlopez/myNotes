@@ -1,0 +1,31 @@
+# ZSH
+
+## Instalar 
+1. sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+2. Modificar fuente ```ZSH_THEME="agnoster"```
+3. Instalar el tema de color solarized. ```https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors```
+4. Instalar la fuente Meslo ```https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf```
+
+## Teclado
+| Shortcut              | Action                                                            |
+|-----------------------|-------------------------------------------------------------------|
+| CTRL + A              | Move to the beginning of the line                                 |
+| CTRL + E              | Move to the end of the line                                       |
+| CTRL + [left arrow]   | Move one word backward (on some systems this is ALT + B)          |
+| CTRL + [right arrow]  | Move one word forward (on some systems this is ALT + F)           |
+| CTRL + U              | This will clear the entire line                                   |
+| CTRL + K              | Clear the characters on the line after the current cursor position|
+| ESC + [backspace]     | Delete the word in front of the cursor                            |
+| CTRL + W              | Delete the word in front of the cursor                            |
+| ALT + D               | Delete the word after the cursor                                  |
+| CTRL + R              | Search history                                                    |
+| CTRL + G              | Escape from search mode                                           |
+| CTRL + _              | Undo the last change                                              |
+| CTRL + L              | Clear screen                                                      |
+| CTRL + S              | Stop output to screen                                             |
+| CTRL + Q              | Re-enable screen output                                           |
+| CTRL + C              | Terminate/kill current foreground process                         |
+| CTRL + Z              | Suspend/stop current foreground process                           |
+| !!                    | Execute last command in history                                   |
+| !abc                  | Execute last command in history beginning with abc                |
+| !abc:p                | Print last command in history beginning with abc                  |
