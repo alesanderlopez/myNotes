@@ -39,12 +39,7 @@ http://www.materialui.co/icons
 
 // Toolbar 
 https://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling(part3)/
-
-
-
 ```
-
-
 
 ## Resoluciones
 
